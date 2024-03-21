@@ -95,3 +95,12 @@ footer{
   height:50px;   /* Height of the footer */
   background:rgb(43, 43, 43);
 }
+
+.home{
+  align-items: center;
+  width: 60px;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
